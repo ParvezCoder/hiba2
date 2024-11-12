@@ -39,7 +39,7 @@ const Hero = () => {
             alt="hero"
             width={700}
             height={500}
-            src={require("../../../public/Employee of the month-pana.png")}
+            src="/hero.png"
           />
         </div>
       </div>
