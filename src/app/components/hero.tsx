@@ -23,7 +23,7 @@ const Hero = () => {
           </h1>
           <div className='w-[100px] h-[2px] bg-blue-700'></div>
           <p className="mb-8 leading-relaxed">
-            Hey, I am Hiba Abdul Khaliq an aspiring web developer. I'm a driven and passionate web developer who has immersed myself in learning TypeScript, JavaScript, and CSS. My journey in web development has been hands-on, building a diverse portfolio that showcases a variety of projects. From creating a simple calculator and word counter to developing a console-based to-do list, currency converter, ATM, and even an adventure game and much more, I’m continuously pushing my skills to new heights.
+            Hey, I am Hiba Abdul Khaliq an aspiring web developer. I am a driven and passionate web developer who has immersed myself in learning TypeScript, JavaScript, and CSS. My journey in web development has been hands-on, building a diverse portfolio that showcases a variety of projects. From creating a simple calculator and word counter to developing a console-based to-do list, currency converter, ATM, and even an adventure game and much more, I’m continuously pushing my skills to new heights.
           </p>
           <div className="flex justify-center">
             <Link href={"#Contact"}>
